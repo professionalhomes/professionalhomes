@@ -1,6 +1,6 @@
 # 👋 Welcome to my github page! <br />
 
-I am a diligent software engineer and avid open source developer with over 10 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+I am a diligent software engineer and avid open source developer with over 8 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
 
 
@@ -92,8 +92,8 @@ fn main() {
           <br>Laravel
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
+          <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="rails" />
+          <br>C++
         </td>
     </tr>
 </table>
