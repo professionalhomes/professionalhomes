@@ -100,12 +100,12 @@ fn main() {
 <h2></h2>
 <hr>
 <!--
-<h3 align="center" >Visitor Count</h3>
+<!-- <h3 align="center" >Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{hardworking-toptal-dev}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{hardworking-toptal-dev}/count.svg)  
   
-</a>
+</a> -->
 
 
 #Github Activity📊:
