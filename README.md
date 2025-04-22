@@ -108,14 +108,8 @@ fn main() {
 </a> -->
 
 
-#Github Activity📊:
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardworking-toptal-dev&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
-</p>
--->
 
-<div align="center"> 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
 
 
