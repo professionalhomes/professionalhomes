@@ -59,8 +59,8 @@ fn main() {
         <br>Angular
       </td>
       <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-        <br>Three.js
+        <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
+        <br>AWS
       </td>
     </tr>
     <tr>
@@ -88,8 +88,8 @@ fn main() {
           <br>Django
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-          <br>Laravel
+          <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+          <br>Supabase
         </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="rails" />
