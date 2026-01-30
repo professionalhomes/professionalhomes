@@ -18,6 +18,7 @@ impl LinusTorvalds {
   }
 }
 
+
 fn main() {
   let linus_torvalds = LinusTorvalds;
 
